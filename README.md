@@ -4,4 +4,5 @@
 ### Things I learned:
 
 1) css transform-origin
-2)  transition-timing-function
+2) transition-timing-function
+3) cubic-bezier feature from ease-in-out
