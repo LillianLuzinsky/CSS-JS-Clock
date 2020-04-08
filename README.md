@@ -8,3 +8,4 @@
 3) cubic-bezier feature from ease-in-out
 4) new Date function;
 5) how to print the seconds in the console.log by using getSeconds function;
+6) how to make to the seconds hand rotate per second
